@@ -1,0 +1,3 @@
+# Ignora estos archivos de texto:
+
+*privado.txt
